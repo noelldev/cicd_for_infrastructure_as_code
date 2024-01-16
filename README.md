@@ -70,7 +70,7 @@ Using the Terraform configuration provided, this produces the following output o
     1. Keep all defaults and select `Create bucket` at the bottom of the form.
     1. Make a note of your bucket name. Make a note of the region where you created the bucket.
 
-### 2. Add and update the exercise files
+### 2. Add and update the exercise files.
 1. Create a new repo and add the exercise files for this lesson.
 1. Move the workflow files into `.github/workflows`:
 
